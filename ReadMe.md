@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Back-and;<br>Estou a procura de estagio;<br>Atualmente estou aprendendo a linguagem Python e;<br><br>
+Sou estudante de Back-and;<br>Estou a procura de estagio;<br>Atualmente estou aprendendo a linguagem Python <br><br>
 
 
 ## 🌐 Socials:
